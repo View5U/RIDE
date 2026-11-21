@@ -1,10 +1,10 @@
 **Robust Multi-Label Learning with Instance-Dependent Label Noise** (_CIKM_ 2025)
 
-Title: Partial Multi Label Feature Selection with Feature Noise
+Title: Robust Multi-Label Learning with Instance-Dependent Label Noise
 
 Authors: You Wu, Yabo Shi, Yizhang Zou, Peipei Li*
 
-Affliations: Hefei University of Techonology
+Affiliation: Hefei University of Technology
 
 **If you find this work helpful, please cite the bibtex below, thanks.**
 
